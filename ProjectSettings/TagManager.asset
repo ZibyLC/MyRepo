@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ship
+  - Projectile
+  - Asteroid
+  - PlayerProjectile
+  - ReloadBonus
+  - LifeBonus
+  - FireLine1
+  - FireLine2
+  - Gun
+  - ExtraGun
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Trackable
+  - 
+  - Ship
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bonus
+    uniqueID: 999763251
+    locked: 0
+  - name: Projectile
+    uniqueID: 3487448513
+    locked: 0
+  - name: Ships
+    uniqueID: 809923151
+    locked: 0
